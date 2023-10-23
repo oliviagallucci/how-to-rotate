@@ -9,18 +9,26 @@ title: Datadog
 ## Generate a new Datadog API Key
 
 ### Step 1 - Navigate to the API Key page
+
 Provide instructions on how to navigate to the SaaS Provider's API Key page.
 
-> To add images, create a new folder titled Datadog (all lowercase) in the `themes/compose/static/images` folder. Add your images there. Then reference them in markdown like this: `![](/images/github/2.png)`
+[//]: # (images for this tutorial are located in themes/compose/static/images/datadog)
+
+
+
+> Then reference them in markdown like this: `![](/images/github/2.png)`
 
 ### Step 2 - Generate a new API Key
+
 #### 2a. Sub-step heading
+
 (Optional) Sub-step directions. Include an image for most (if not all) sub-steps.
 ...
 
 ---
 
 ## Replace the Leaked Datadog API Key
+
 Replace the leaked Datadog API Key with the new one in all impacted applications and services.
 
 ---
@@ -28,9 +36,11 @@ Replace the leaked Datadog API Key with the new one in all impacted applications
 ## Revoke the Leaked Datadog API Key
 
 ### Step 1 - Navigate to the API Key page
+
 Provide instructions on how to navigate to the SaaS Provider's API Key page. (Usually same as Step 1 above).
 
 ### Step 2 - Revoke the API Key
+
 #### 2a. Sub-step heading
 (Optional) Sub-step directions. Include an image for most (if not all) sub-steps.
 ...
@@ -40,6 +50,7 @@ Provide instructions on how to navigate to the SaaS Provider's API Key page. (Us
 ## Best Practices
 
 ##### Best Practice Sub-Title
+
 Details with a link.
 
 ---
